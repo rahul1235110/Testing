@@ -1,0 +1,123 @@
+Logs for swceto.streamlit.app/
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[04:32:24] 🚀 Starting up repository: 'et_final_new', branch: 'main', main module: 'app.py'
+
+[04:32:24] 🐙 Cloning repository...
+
+[04:32:25] 🐙 Cloning into '/mount/src/et_final_new'...
+
+[04:32:25] 🐙 Cloned repository!
+
+[04:32:25] 🐙 Pulling code changes from Github...
+
+[04:32:25] 📦 Processing dependencies...
+
+Prepared 38 packages in 2.18s
+
+Installed 38 packages in 163ms
+
+ + altair==5.5.0
+
+ + attrs==25.3.0
+
+ + blinker==1.9.0
+
+ + cachetools==5.5.2
+
+ + certifi==2025.4.26[2025-05-01 04:32:28.792257] 
+
+ + charset-normalizer==3.4.1
+
+ + click==8.1.8
+
+ + gitdb==4.0.12
+
+ + gitpython==3.1.44
+
+ + idna==3.10
+
+ + jinja2==3.1.6
+
+ + jsonschema==4.23.0
+
+ + jsonschema-specifications==2025.4.1
+
+ + markupsafe==3.0.2
+
+ + narwhals==1.37.0
+
+ + numpy==2.2.5
+
+ + packaging==24.2
+
+ + pandas==2.2.3
+
+ + pillow[2025-05-01 04:32:28.792533] ==11.2.1
+
+ + protobuf==5.29.4
+
+ + pyarrow==20.0.0
+
+ + pydeck==0.9.1[2025-05-01 04:32:28.792823] 
+
+ + python-dateutil==2.9.0.post0
+
+ + pytz==2025.2
+
+ + referencing[2025-05-01 04:32:28.793063] ==0.36.2
+
+ + requests==2.32.3
+
+ + rpds-py==0.24.0
+
+ [2025-05-01 04:32:28.795379] + six==1.17.0
+
+ + smmap==5.0.2
+
+ + streamlit==1.44.1[2025-05-01 04:32:28.795680] 
+
+ + streamlit-geolocation==0.0.10
+
+ + tenacity==9.1.2
+
+ + toml==0.10.2[2025-05-01 04:32:28.796106] 
+
+ + tornado==6.4.2
+
+ + typing-extensions==4.13.2
+
+ + tzdata==2025.2[2025-05-01 04:32:28.796317] 
+
+ + urllib3==2.4.0
+
+ + watchdog==6.0.0
+
+[04:32:29] 🐍 Python dependencies were installed from /mount/src/et_final_new/uv.lock using uv-sync.
+
+[04:32:29] 📦 WARN: More than one requirements file detected in the repository. Available options: uv-sync /mount/src/et_final_new/uv.lock, uv /mount/src/et_final_new/requirements.txt, poetry /mount/src/et_final_new/pyproject.toml. Used: uv-sync with /mount/src/et_final_new/uv.lock
+
+Check if streamlit is installed
+
+Streamlit is already installed
+
+[04:32:30] 📦 Processed dependencies!
+
+
+      👋 Welcome to Streamlit!
+
+
+      If you’d like to receive helpful onboarding emails, news, offers, promotions,
+
+      and the occasional swag, please enter your email address below. Otherwise,
+
+      leave this field blank.
+
+
+[04:32:34] ❗️ The service has encountered an error while checking the health of the Streamlit app: Get "http://localhost:8501/healthz": dial tcp 127.0.0.1:8501: connect: connection refused
+
+main
+rahul1235110/et_final_new/main/app.py
+
+

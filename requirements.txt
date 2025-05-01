@@ -1,0 +1,7 @@
+pandas>=2.2.3
+requests>=2.32.3
+streamlit-geolocation>=0.0.10
+streamlit>=1.44.1
+psycopg2-binary
+python-dotenv
+pytz
